@@ -1,0 +1,9 @@
+*.o
+*.vcd
+*.fsdb
+*.swp
+
+gen/
+work/
+
+/transcript
